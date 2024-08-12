@@ -13,6 +13,6 @@ Built with the MERN stack, HeelSync aims to enhance productivity and planning fo
 - **Enrollment Planning**: We provide real-time visibility into class enrollments, helping you make informed decisions during registration periods.
 - **Extracurricular Activities Tracker**: Keep track of your gym sessions, club meetings, and other activities.
 - **Intelligent Schedule Recommendations**: Utilize our ML model to generate and autocomplete your schedules based on previously taken classes.
-- **Study Abroad Planner**: Use our study abroad map and planner, complete with all necessary information to make the best travel choices.
+- **Study Abroad Planner**: Use our study abroad planner and interactive map, complete with all necessary information to make the best travel choices.
 - **GPA Calculator**: Stay on top of your academic progress by calculating your GPA within the app.
 - **Customizable Themes**: Switch between themes to customize the app’s appearance to your liking.
