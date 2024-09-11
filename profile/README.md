@@ -5,7 +5,7 @@
 HeelSync is designed to streamline the scheduling process for UNC students, integrating class schedules, extracurricular activities, study abroad planning, 
 and personalized schedule recommendations into a single, user-friendly platform. 
 
-Built with the SERN stack, HeelSync aims to enhance productivity and planning for the UNC community.
+Built with the SERN (Supabase, Express.js, React.js, Node.js) stack, HeelSync aims to enhance productivity and planning for the UNC community.
 
 
 ### Features
